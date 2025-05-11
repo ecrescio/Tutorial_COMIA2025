@@ -1,4 +1,4 @@
-Notebooks para el tutorial "Análisis de series de tiempo con Inteligencia Artidicial".
+Notebooks para el tutorial "Análisis de series de tiempo con Inteligencia Artificial".
 
 La presentación es disponible aquí:
 
